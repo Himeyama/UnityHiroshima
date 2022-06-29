@@ -501,7 +501,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tr: {fileID: 15600000, guid: eda2adb7543fe8546bfa7eb75401d87b, type: 2}
   place: Hiroshima-14214-6518
-  makeTrrain: 1
+  makeTrrain: 0
 --- !u!4 &2019611215
 Transform:
   m_ObjectHideFlags: 0
